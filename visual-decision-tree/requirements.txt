@@ -1,0 +1,6 @@
+streamlit>=1.20
+pandas
+numpy
+graphviz
+scikit-learn   # optional (for dataset loading and metrics)
+python-dotenv  # optional
